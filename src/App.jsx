@@ -7,6 +7,7 @@ function App() {
         <h1>My react app</h1>
         <h2>my react implement with CI/CD</h2>
         <h3>with Github action</h3>
+        <p>Riya</p>
       </div>
   )
 }
